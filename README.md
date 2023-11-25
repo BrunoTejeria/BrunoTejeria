@@ -30,6 +30,10 @@
   <a href="https://www.lua.org/" target="_blank"> 
     <img alt="Lua" src="https://img.shields.io/badge/Lua%20-%232C2D72.svg?logo=lua&logoColor=white">
   </a>
+  &emsp;
+  <a href="https://www.shellscript.sh/" target="_blank"> 
+    <img alt="Shell Script" src="https://img.shields.io/badge/Shell Script-%231180B3.svg?logo=gnu-bash&logoColor=white">
+  </a>
 </p>
 
 ### 👉 Frontend Development
@@ -51,4 +55,80 @@
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
+</p>
+
+
+### 👉 Backend Development
+
+<p align="left">
+  &emsp;
+  <a href="https://www.python.org/" target="_blank"> 
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%233776AB.svg?logo=python&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank"> 
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI%20-%230D96F6.svg?logo=fastapi&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
+    <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white">
+  </a>
+</p>
+
+
+### Otros
+<p align="left">
+  &emsp;
+  <a href="https://www.json.org/" target="_blank"> 
+    <img alt="JSON" src="https://img.shields.io/badge/JSON%20-%23232F3E.svg?logo=json&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://daringfireball.net/projects/markdown/" target="_blank"> 
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown%20-%23000000.svg?logo=markdown&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://dotnet.microsoft.com/" target="_blank"> 
+    <img alt=".NET Core" src="https://img.shields.io/badge/.NET%20Core%20-%23512BD4.svg?logo=.net&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://vitejs.dev/" target="_blank"> 
+    <img alt="Vite" src="https://img.shields.io/badge/Vite%20-%230A0A0A.svg?logo=vite&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://nodejs.org/" target="_blank"> 
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23339933.svg?logo=node.js&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-%234EAA25.svg?logo=gnu-bash&logoColor=white">
+  </a>
+</p>
+<p align="left">
+  &emsp;
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05032.svg?logo=git&logoColor=white">
+  </a>
+  &emsp;
+
+  <a href="https://numpy.org/" target="_blank"> 
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white">
+  </a>
+  &emsp;
+
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> 
+    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=adobe-photoshop&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
+    <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe XD-%23FF26BE.svg?logo=adobe-xd&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.figma.com/" target="_blank"> 
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> 
+    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?logo=adobe-illustrator&logoColor=white">
+  </a>
+  &emsp;
 </p>
