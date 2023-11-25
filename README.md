@@ -1,11 +1,12 @@
 <div align="center">
 
-&emsp;
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrunoTejeria&theme=highcontrast&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=512)](https://git.io/streak-stats)
+  &emsp;
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrunoTejeria&theme=highcontrast&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=512)](https://git.io/streak-stats)
+</div>
+<div align="center">
+
 &emsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoTejeria&layout=compact&theme=highcontrast)](https://github.com/BrunoTejeria)
-
-
 
 </div>
 
