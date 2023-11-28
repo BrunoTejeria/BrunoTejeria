@@ -125,12 +125,10 @@
       <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05032.svg?logo=git&logoColor=white">
     </a>
     &emsp;
-
     <a href="https://numpy.org/" target="_blank">
       <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white">
     </a>
     &emsp;
-
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
       <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=adobe-photoshop&logoColor=white">
     </a>
