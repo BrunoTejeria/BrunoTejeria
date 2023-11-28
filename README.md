@@ -10,14 +10,14 @@
 
 </div>
 
-&emsp;
+
 ## 👋 Hola
 <div>
   <p align="left">
     Hola soy Bruno y me llamo Bruno jeje
   </p>
 </div>
-&emsp;
+
 
 ## 🛠️ My Skills
 <div>
