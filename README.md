@@ -1,98 +1,100 @@
-# 👋 Hola
+# ¡Hola! 👋
+
 <div>
   <p align="left">
-    Hola soy Bruno y me llamo Bruno jeje
+    Hola Soy Bruno y me llamo Bruno jeje
   </p>
 </div>
 
+# 📈 Estadísticas
 
-# 📈 Estadisticas
 <div align="center">
-
   &emsp;
+
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrunoTejeria&theme=highcontrast&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=512)](https://git.io/streak-stats)
 </div>
+
 <div align="center">
+  &emsp;
 
-&emsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoTejeria&layout=compact&theme=highcontrast)](https://github.com/BrunoTejeria)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoTejeria&layout=compact&theme=highcontrast)](https://github.com/BrunoTejeria)
 </div>
 
-## 🛠️ My Skills
-<div>
+## 🛠️ Mis Tecnologías
 
-  ### 👉 Programming languages
-  <p align="left">
-    &emsp;
-    <a href="https://www.python.org" target="_blank">
-      <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-    </a>
-      &emsp;
-    <a href="https://www.w3schools.com/cpp/" target="_blank">
-      <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-    </a>
-    &emsp;
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-      <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white">
-    </a>
-    &emsp;
-    <a href="https://www.learn-c.org/" target="_blank">
-      <img alt="C" src="https://img.shields.io/badge/C%20-%2300599C.svg?logo=c&logoColor=white">
-    </a>
-    &emsp;
-    <a href="https://www.lua.org/" target="_blank">
-      <img alt="Lua" src="https://img.shields.io/badge/Lua%20-%232C2D72.svg?logo=lua&logoColor=white">
-    </a>
-    &emsp;
-    <a href="https://www.shellscript.sh/" target="_blank">
-      <img alt="Shell Script" src="https://img.shields.io/badge/Shell Script-%231180B3.svg?logo=gnu-bash&logoColor=white">
-    </a>
-    &emsp;
-    <a href="https://www.gnu.org/software/bash/" target="_blank">
-      <img alt="Bash" src="https://img.shields.io/badge/Bash-%234EAA25.svg?logo=gnu-bash&logoColor=white">
-    </a>
-  </p>
+### 👉 Lenguajes de Programación
 
-  ### 👉 Frontend Development
+<p align="left">
+  &emsp;
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.learn-c.org/" target="_blank">
+    <img alt="C" src="https://img.shields.io/badge/C%20-%2300599C.svg?logo=c&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.lua.org/" target="_blank">
+    <img alt="Lua" src="https://img.shields.io/badge/Lua%20-%232C2D72.svg?logo=lua&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.shellscript.sh/" target="_blank">
+    <img alt="Shell Script" src="https://img.shields.io/badge/Shell Script-%231180B3.svg?logo=gnu-bash&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-%234EAA25.svg?logo=gnu-bash&logoColor=white">
+  </a>
+</p>
 
-  <p align="left">
-    &emsp;
-    <a href="https://www.w3.org/html/" target="_blank">
+### 👉 Desarrollo Frontend
+
+<p align="left">
+  &emsp;
+  <a href="https://www.w3.org/html/" target="_blank">
     <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-    </a>
-    &emsp;
-    <a href="https://www.w3schools.com/css/" target="_blank">
-      <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-    </a>
-    &emsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  </a>
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
   </a>
-    &emsp;
-    <a href="https://reactjs.org/" target="_blank">
-      <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=61DAFB">
-    </a>
-  </p>
+  &emsp;
+  <a href="https://reactjs.org/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=61DAFB">
+  </a>
+</p>
 
-  ### 👉 Backend Development
+### 👉 Desarrollo Backend
 
-  <p align="left">
-    &emsp;
-    <a href="https://www.python.org/" target="_blank">
-      <img alt="Python" src="https://img.shields.io/badge/Python%20-%233776AB.svg?logo=python&logoColor=white">
-    </a>
-    &emsp;
-    <a href="https://fastapi.tiangolo.com/" target="_blank">
-      <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI%20-%230D96F6.svg?logo=fastapi&logoColor=white">
-    </a>
-    &emsp;
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-      <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white">
-    </a>
-  </p>
+<p align="left">
+  &emsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%233776AB.svg?logo=python&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI%20-%230D96F6.svg?logo=fastapi&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white">
+  </a>
+</p>
 
-  ### 👉 Otros
+### 👉 Otros
+
 
   <p align="left">
     &emsp;
