@@ -1,3 +1,12 @@
+# 👋 Hola
+<div>
+  <p align="left">
+    Hola soy Bruno y me llamo Bruno jeje
+  </p>
+</div>
+
+
+# 📈 Estadisticas
 <div align="center">
 
   &emsp;
@@ -8,14 +17,6 @@
 &emsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoTejeria&layout=compact&theme=highcontrast)](https://github.com/BrunoTejeria)
 
-</div>
-
-
-## 👋 Hola
-<div>
-  <p align="left">
-    Hola soy Bruno y me llamo Bruno jeje
-  </p>
 </div>
 
 ## 🛠️ My Skills
