@@ -61,11 +61,11 @@
 
 <p align="left">
   &emsp;
-  <a href="https://www.w3.org/html/" target="_blank">
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
     <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a>
   &emsp;
@@ -119,10 +119,15 @@
     <a href="https://nodejs.org/" target="_blank">
       <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23339933.svg?logo=node.js&logoColor=white">
     </a>
-      &emsp;
+    &emsp;
     <a href="https://getbootstrap.com" target="_blank">
       <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
     </a>
+    &emsp;
+    <a href="https://pandas.pydata.org/" target="_blank">
+      <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white">
+    </a>
+
   </p>
   <p align="left">
     &emsp;
@@ -149,6 +154,11 @@
     <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
       <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?logo=adobe-illustrator&logoColor=white">
     </a>
+    &emsp;
+    <a href="https://unity.com/" target="_blank">
+      <img alt="Unity" src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white">
+    </a>
+    &emsp;
 
   </p>
 </div>
