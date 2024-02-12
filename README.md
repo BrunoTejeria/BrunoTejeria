@@ -2,7 +2,7 @@
 
 <div>
   <p align="left">
-    Hola Soy Bruno y me llamo Bruno jeje
+    Hola Soy Bruno tengo 15 años y me gusta programar 🤠👍
   </p>
 </div>
 
