@@ -11,20 +11,22 @@
 <div align="center">
   &emsp;
 
-  ![brunotejeria's Streak](https://github-readme-streak-stats.herokuapp.com/?user=brunotejeria&theme=vue-dark&hide_border=true)
+  ![brunotejeria's Streak](https://github-readme-streak-stats.herokuapp.com/?user=brunotejeria&theme=vue-dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=512e)
 </div>
 
 <div align="center">
   &emsp;
 
-  ![brunotejeria's Stats](https://github-readme-stats.vercel.app/api?username=brunotejeria&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  ![brunotejeria's Stats](https://github-readme-stats.vercel.app/api?username=brunotejeria&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&locale=es)
 </div>
 
 
 <div align="center">
   &emsp;
 
-  ![brunotejeria's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunotejeria&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+  ![brunotejeria's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunotejeria&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&locale=es)
+
+  
   
 
 
