@@ -1,8 +1,8 @@
-# ¡Hola! 👋
+# Buenas
 
 <div>
   <p align="left">
-    🤠👍
+    🫡
   </p>
 </div>
 
